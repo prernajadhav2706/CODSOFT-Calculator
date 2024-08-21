@@ -20,9 +20,6 @@ In this project, I created a Calculator by using Html,CSS and JavaScript
 - [@prernajadhav2706](https://www.github.com/prernajadhav2706)
 
 
- Documentation
- [Documentation](https://github.com/prernajadhav2706/Calculator)
-
 
  Lessons:
 I Leraned to implement HTML,CSS and JS project to create a Calculator.
